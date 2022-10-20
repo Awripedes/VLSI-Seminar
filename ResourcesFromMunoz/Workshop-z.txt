@@ -1,0 +1,2 @@
+esses labs são dos workshops da xilinx e funcionam na versão 2018.3
+a partir da versão Vivado 2019.2 a Partial Reconfiguration funciona sem necessidade de licença

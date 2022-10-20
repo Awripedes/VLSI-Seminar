@@ -1,0 +1,3 @@
+especificamente usei esse lab3 que funciona no Vivado 2018.3, mas este ultimo semestre rodamos esse mesmo lab3 no Vivado 2019.2 retornou alguns erros que com pouco esforço conseguimos resolver.
+para prejetos com PR o vivado é usado em modo script.
+e a ferramenta que estamos desenvolvendo na UnB (RTRLib) gera tais scripts de forma automatica
