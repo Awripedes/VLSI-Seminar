@@ -2,7 +2,7 @@
 
 ## Topic: Reconfigurable Systems with Xilinx FPGAs
 
-### [Paper](https://www.overleaf.com/read/fmfjypzytrtp) in Overleaf
+### [Paper in Overleaf](https://www.overleaf.com/read/fmfjypzytrtp)
 
 ### Main broad topics to explain:
 - How to use reconfigurable computing in Xilinx boards
