@@ -14,4 +14,5 @@
 - [Xilinx Partial Reconfiguration User Guide (UG702)](https://www.xilinx.com/content/dam/xilinx/support/documents/sw_manuals/xilinx14_5/ug702.pdf)
 - [Partial Reconfiguration of Xilinx FPGAs Using ISE Design Suite (WP374)](https://www.xilinx.com/content/dam/xilinx/support/documents/white_papers/wp374_Partial_Reconfig_Xilinx_FPGAs.pdf)
 - [Vivado Design Suite User Guide: Partial Reconfiguration (UG909)](https://docs.xilinx.com/v/u/2018.1-English/ug909-vivado-partial-reconfiguration)
+- [Vivado 2022.1 Dynamic Function eXchange](https://www.xilinx.com/support/documentation-navigation/design-hubs/dh0017-vivado-partial-reconfiguration-hub.html)
 - [Misc](https://github.com/Awripedes/VLSI-Seminar/tree/main/ResourcesFromMunoz)
