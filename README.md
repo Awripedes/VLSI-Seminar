@@ -18,4 +18,5 @@
 - [Vivado Dynamic Reconfiguration topics](https://docs.xilinx.com/r/en-US/ug909-vivado-partial-reconfiguration/Dynamic-Reconfiguration-Using-the-DRP)
 - [7 Series FPGAs Configuration User Guide (UG470)](https://docs.xilinx.com/v/u/en-US/ug470_7Series_Config)
 - [Two Flows for Partial Reconfiguration: Module Based or Small Bit Manipulations](https://uweb.engr.arizona.edu/~ece506/readings/project-reading/1-partial-reconfiguration/Module%20Based%20Partial%20Reconfiguration%20Xilinx.pdf)
+- [Module based Partial Reconfiguration on Bitstream Relocation Filter](https://research.ijcaonline.org/volume66/number10/pxc3886083.pdf)
 - [Misc](https://github.com/Awripedes/VLSI-Seminar/tree/main/ResourcesFromMunoz)
